@@ -7,6 +7,7 @@
 A comprehensive data analysis project that identifies factors driving customer churn in the telecom industry and provides actionable business insights.
 
 ![Dashboard Preview]
+
 ("customer-churn-analysis\visualizations\07_dashboard.png")
 ("customer-churn-analysis\visualizations\01_churn_distribution.png")
 ("customer-churn-analysis\visualizations\02_churn_by_contract.png")
@@ -267,6 +268,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ **If you found this project helpful, please give it a star!** ⭐
+
 
 
 
