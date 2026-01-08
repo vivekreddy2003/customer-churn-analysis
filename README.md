@@ -227,11 +227,11 @@ The `sql_queries.sql` file contains production-ready queries for:
 
 ## 🔮 Future Enhancements
 
-- [ ] **Machine Learning Model**: Build predictive churn model using scikit-learn
-- [ ] **Real-time Dashboard**: Interactive dashboard with Plotly/Dash
-- [ ] **A/B Testing Framework**: Measure retention campaign effectiveness
-- [ ] **Automated Reporting**: Scheduled analysis reports
-- [ ] **API Integration**: Connect with CRM systems
+- [1] **Machine Learning Model**: Build predictive churn model using scikit-learn
+- [2] **Real-time Dashboard**: Interactive dashboard with Plotly/Dash
+- [3] **A/B Testing Framework**: Measure retention campaign effectiveness
+- [4] **Automated Reporting**: Scheduled analysis reports
+- [5] **API Integration**: Connect with CRM systems
 
 ---
 
@@ -239,9 +239,9 @@ The `sql_queries.sql` file contains production-ready queries for:
 
 **[Your Name]**
 
-- LinkedIn: [Your LinkedIn Profile]
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+- LinkedIn: [https://www.linkedin.com/in/vivek-reddy-solipeta-588729227?lipi=urn%3Ali%3Apage%3Amessaging_thread%3B753221cb-285f-4cca-81d6-8478a73521c6]
+- Email: vivekreddysolipeta2003@gmail.com
+- GitHub: [@vivekreddy2003](https://github.com/vivekreddy2003)
 
 ---
 
@@ -260,3 +260,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ **If you found this project helpful, please give it a star!** ⭐
+
